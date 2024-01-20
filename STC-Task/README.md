@@ -1,4 +1,4 @@
-## Employee management API (demo) 
+## File management API (demo) 
 A spring boot application for managing upload/download files
 
 ## Note : 
